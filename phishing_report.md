@@ -14,3 +14,14 @@ Findings:
 * Appears to impersonate Amazon.
 
 Risk Level: High
+## URL Analysis
+
+https://amazon-login-security.xyz
+
+Findings:
+
+* Not an official Amazon domain.
+* Uses a suspicious ".xyz" domain extension.
+* Attempts to imitate a legitimate Amazon login page.
+
+Risk Level: High
