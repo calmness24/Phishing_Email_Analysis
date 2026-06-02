@@ -25,3 +25,13 @@ Findings:
 * Attempts to imitate a legitimate Amazon login page.
 
 Risk Level: High
+## Social Engineering Tactics
+
+Observed:
+
+* Urgency
+* Fear
+* Threat of account suspension
+
+Purpose:
+To pressure the recipient into clicking the link without verifying its legitimacy.
