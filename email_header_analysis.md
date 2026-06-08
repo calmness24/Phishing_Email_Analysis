@@ -24,7 +24,6 @@ Risk Level: High
 
 Assessment:
 The email displays multiple indicators commonly associated with phishing campaigns.
-## Indicators of Suspicious Activity
 
 ## Conclusion
 
