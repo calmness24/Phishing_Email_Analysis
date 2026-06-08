@@ -15,3 +15,12 @@ Analysis:
 * This technique is commonly used in phishing attacks to deceive recipients.
 
 Risk Level: High
+## Indicators of Suspicious Activity
+
+* Sender domain does not match the legitimate company domain.
+* The email attempts to impersonate a trusted brand.
+* The sender uses character substitution to deceive recipients.
+* The email creates urgency to encourage immediate action.
+
+Assessment:
+The email displays multiple indicators commonly associated with phishing campaigns.
