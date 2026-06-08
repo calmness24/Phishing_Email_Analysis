@@ -10,3 +10,5 @@ Analysis of phishing emails, social engineering tactics, malicious URLs, and sec
 * Technical Documentation
 * Cybersecurity Reporting
 
+## Project Objective
+The objective of this project is to demonstrate the identification and analysis of phishing emails by examining sender information, suspicious URLs, and social engineering tactics. The project documents findings in a structured security report and provides recommendations for mitigating phishing threats.
