@@ -26,11 +26,6 @@ Assessment:
 The email displays multiple indicators commonly associated with phishing campaigns.
 ## Indicators of Suspicious Activity
 
-* Sender domain does not match the legitimate company domain.
-* The email attempts to impersonate a trusted brand.
-* The sender uses character substitution to deceive recipients.
-* The email creates urgency to encourage immediate action.
-
 ## Conclusion
 
 The investigated email demonstrates characteristics commonly found in phishing attacks, including domain impersonation, deceptive sender information, and social engineering techniques.
